@@ -2,7 +2,7 @@
 A citation style for Mendeley Reference Manager, based on APA 7th that is compliant to Babeș-Bolyai University's requirements.
 
 ### How to use?
-1. Copy this link (https://raw.githubusercontent.com/emanuelmustea/apa-ubb/main/apa-ubb.xml)[APA UBB].
+1. Copy this link [https://raw.githubusercontent.com/emanuelmustea/apa-ubb/main/apa-ubb.xml](APA UBB).
 2. Go to Mendeley Cite in Word
 3. Choose 'Citation Settings'
 4. Press 'Change citation style'
