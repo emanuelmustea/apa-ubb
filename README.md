@@ -1,5 +1,5 @@
 # American Psychological Association 7th edition - Babeș-Bolyai University
-A citation style for Mendeley Reference Manager, based on APA 7th that is compliant to Babeș-Bolyai University's requirements.
+A custom citation style for Mendeley, based on APA 7th, that is compliant with Babeș-Bolyai University's requirements.
 
 ### How to use?
 1. Copy this link [APA UBB](https://raw.githubusercontent.com/emanuelmustea/apa-ubb/main/apa-ubb.xml).
